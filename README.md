@@ -1,4 +1,4 @@
-# Deep Learning Specialization on Coursera
+# Deep Learning Specialisation on Coursera
 Deep Learning Specialisation 2024 by Andrew Ng on Coursera
 
 ## Background and objectives
