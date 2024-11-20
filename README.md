@@ -1,10 +1,6 @@
 # Deep Learning Specialization on Coursera
 Deep Learning Specialisation 2024 by Andrew Ng on Coursera
 
-__Date Started:__ 2024-07-23 <br>
-__Date Completed:__ 2024-12-24 <br>
-__Instructor:__ [Andrew Ng](http://www.andrewng.org/)
-
 ## Introduction
 
 This repo contains working Sequence Models application. The following models are implemented
