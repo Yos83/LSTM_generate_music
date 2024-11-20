@@ -1,7 +1,7 @@
 # Deep Learning Specialization on Coursera
 Deep Learning Specialisation 2024 by Andrew Ng on Coursera
 
-## Background
+## Background and objectives
 This repo contains workings on Sequence Models application. The following models are implemented
 
 1.- Building your Recurrent Neural Network - Step by Step: implementing key components of a Recurrent Neural Network, or RNN, in NumPy
