@@ -7,7 +7,7 @@ __Instructor:__ [Andrew Ng](http://www.andrewng.org/)
 
 ## Introduction
 
-This repo contains working son Recurrent Neural Networks application. The following Sequence Models are worked:
+This repo contains working Sequence Models application. The following models are implemented
 
 1.- Building your Recurrent Neural Network - Step by Step: implementing key components of a Recurrent Neural Network, or RNN, in NumPy
 - Define notation for building sequence models
