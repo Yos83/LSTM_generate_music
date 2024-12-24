@@ -7,7 +7,8 @@ This repo contains workings on Sequence Models application. The following models
 1.- Building your Recurrent Neural Network - Step by Step: implementing key components of a Recurrent Neural Network, or RNN, in NumPy
 - Define notation for building sequence models
 - Describe the architecture of a basic RNN
-- Identify the main components of an LSTMImplement backpropagation through time for a basic RNN and an LSTM
+- Identify the main components of an LSTM
+- Implement backpropagation through time for a basic RNN and an LSTM
 - Give examples of several types of RNN
 
 2.- Character Language Model:build a character-level language model to generate new names
